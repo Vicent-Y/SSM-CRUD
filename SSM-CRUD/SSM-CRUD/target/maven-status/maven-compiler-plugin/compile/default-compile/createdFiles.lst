@@ -1,0 +1,14 @@
+com\vicent\bean\Department.class
+com\vicent\bean\EmployeeExample$Criteria.class
+com\vicent\test\MBGTest.class
+com\vicent\bean\EmployeeExample$Criterion.class
+com\vicent\bean\EmployeeExample$GeneratedCriteria.class
+com\vicent\dao\EmployeeMapper.class
+com\vicent\bean\Employee.class
+com\vicent\bean\DepartmentExample$Criteria.class
+com\vicent\bean\DepartmentExample$Criterion.class
+com\vicent\test\MapperTest.class
+com\vicent\bean\DepartmentExample$GeneratedCriteria.class
+com\vicent\bean\EmployeeExample.class
+com\vicent\dao\DepartmentMapper.class
+com\vicent\bean\DepartmentExample.class
